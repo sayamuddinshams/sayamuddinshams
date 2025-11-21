@@ -45,23 +45,23 @@ With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack
 
 📊 Monitoring
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-plain.svg" width="48"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-plain.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="48"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="48"/>
 </p>
 
 ☁️ Cloud
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
 </p>
 
 🛠️ DevOps & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="48"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" width="48"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" style="filter: invert(1);"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" width="48"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" width="48" title="CI/CD via GitHub Actions"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" style="filter: invert(1);" title="CI/CD via GitHub Actions"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="48"/>
