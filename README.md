@@ -1,7 +1,6 @@
-
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There+🌍" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=800&lines=Hey+There+🌍" 
   />
 </h1>
 
