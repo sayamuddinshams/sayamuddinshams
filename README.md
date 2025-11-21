@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There+!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There!" 
   />
 </h1>
 
@@ -54,6 +54,8 @@ With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);"/> 
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" width="40"/> |
+
+---
 
 ## 📊 GitHub Stats
 
