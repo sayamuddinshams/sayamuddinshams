@@ -1,7 +1,7 @@
 <h1 align="center">
-  <span style="font-size: 50px; font-weight: 900;">
-    Hey There, World! 🌍
-  </span>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1200&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There,+World!+🌍" />
+
 </h1>
 
 
