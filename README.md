@@ -21,7 +21,6 @@ With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack
 * 🤝 Representing **Karakoram International University** in collaborative development projects emphasizing **teamwork**, **problem-solving**, and **innovation**.  
 * 🧠 Dedicated to continuous learning, automation, and simplifying complex processes with technology.
 
----
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -54,7 +53,7 @@ With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack
 <img src="https://img.icons8.com/ios-glyphs/50/github.png"/> 
 <img src="https://img.icons8.com/color/50/github-actions.png"/> |
 
----
+
 
 ## 📊 GitHub Stats
 
