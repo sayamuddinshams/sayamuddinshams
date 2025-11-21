@@ -1,7 +1,8 @@
+
 <h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There,+World!+🌍" />
-
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There+🌍" 
+  />
 </h1>
 
 
