@@ -31,15 +31,13 @@ With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack
 | ☁️ Cloud | AWS |
 | 🛠️ DevOps & Tools | Git, GitHub, Linux, Bash, Jenkins, Docker, Kubernetes, Terraform, GitHub Actions |
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayamuddinshams&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Sayam Uddin's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayamuddinshams&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Sayam Uddin's Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayamuddinshams&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Sayam Uddin's GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayamuddinshams&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Sayam Uddin's Top Languages"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
