@@ -4,14 +4,22 @@
   />
 </h2>
 
----
-
 ### 🚀 About Me
 
-I'm **Sayam Uddin**, an enthusiastic **DevOps Engineer** and **Full-Stack Developer** from *Karakoram International University, Gilgit*.  
-With **1+ year of hands-on experience** in **DevOps practices** and **MERN stack development**, I’m passionate about building scalable, automated, and efficient systems.
+I’m **Sayam Uddin**, a **DevOps Engineer** focused on building, automating, and monitoring **production-ready cloud infrastructure**.
 
----
+I specialize in **AWS, Kubernetes, Terraform, CI/CD pipelines, and monitoring/observability**, helping teams replace manual setups with **scalable, secure, and repeatable systems** using Infrastructure as Code.
+
+🔧 What I work with:
+- **Terraform** for Infrastructure as Code (IaC)
+- **Kubernetes & Docker** for container orchestration
+- **AWS** (EC2, VPC, IAM, CloudWatch)
+- **CI/CD** using GitHub Actions & Jenkins
+- **Monitoring & Observability** with Prometheus and Grafana
+- Linux administration and cloud security best practices
+
+Most of my repositories focus on **real-world DevOps projects**, including AWS infrastructure provisioning, Kubernetes deployments, CI/CD automation, and system monitoring.
+
 
 ### 💡 What I Do
 
