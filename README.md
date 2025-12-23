@@ -1,43 +1,56 @@
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+There!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Terraform+%7C+Kubernetes+%7C+AWS" 
   />
 </h2>
 
-### 🚀 About Me
+## 🚀 About Me
 
-I’m **Sayam Uddin**, a **DevOps Engineer** focused on building, automating, and monitoring **production-ready cloud infrastructure**.
+I’m **Sayam Uddin**, a **DevOps Engineer** focused on designing, automating, and monitoring **production-ready cloud infrastructure**.
 
-I specialize in **AWS, Kubernetes, Terraform, CI/CD pipelines, and monitoring/observability**, helping teams replace manual setups with **scalable, secure, and repeatable systems** using Infrastructure as Code.
+I specialize in **AWS, Kubernetes, Terraform, CI/CD automation, and monitoring/observability**, helping teams replace manual and fragile systems with **scalable, secure, and repeatable Infrastructure as Code (IaC)**.
 
-🔧 What I work with:
-- **Terraform** for Infrastructure as Code (IaC)
-- **Kubernetes & Docker** for container orchestration
-- **AWS** (EC2, VPC, IAM, CloudWatch)
-- **CI/CD** using GitHub Actions & Jenkins
-- **Monitoring & Observability** with Prometheus and Grafana
-- Linux administration and cloud security best practices
+My work is centered around **real-world DevOps use cases** — not tutorials.
 
-Most of my repositories focus on **real-world DevOps projects**, including AWS infrastructure provisioning, Kubernetes deployments, CI/CD automation, and system monitoring.
+---
 
+## 🔧 What I Do (DevOps-Focused)
 
-### 💡 What I Do
+- 🏗️ Provision and manage **AWS infrastructure using Terraform (IaC)**
+- ☸️ Deploy and manage applications on **Kubernetes**
+- 🔄 Build **CI/CD pipelines** with GitHub Actions & Jenkins
+- 📦 Containerize applications using **Docker**
+- 📊 Implement **monitoring & observability** with Prometheus, Grafana, and CloudWatch
+- 🔐 Apply **Linux and cloud security best practices**
 
-* ⚙️ Working with **DevOps tools** — Jenkins, Docker, AWS EC2, and Linux for **CI/CD pipelines**, **automation**, and **deployment**.  
-* 💻 Skilled in **MERN Stack** — MongoDB, Express.js, React, Node.js — along with **HTML, CSS, JavaScript, TailwindCSS**, and **Bootstrap**.  
-* ☁️ Currently exploring **Cloud**, **Kubernetes**, and **Terraform** for container orchestration and infrastructure as code.  
-* 🤝 Representing **Karakoram International University** in collaborative development projects emphasizing **teamwork**, **problem-solving**, and **innovation**.  
-* 🧠 Dedicated to continuous learning, automation, and simplifying complex processes with technology.
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| 💻 Languages & Frameworks | HTML, CSS, JavaScript, Bootstrap, TailwindCSS, Node.js, Express.js |
-| 🗄️ Databases | MySQL, MongoDB |
-| 📊 Monitoring | Grafana, Prometheus |
-| ☁️ Cloud | AWS |
-| 🛠️ DevOps & Tools | Git, GitHub, Linux, Bash, Jenkins, Docker, Kubernetes, Terraform, GitHub Actions |
+|-------|-------------|
+| ☁️ Cloud | AWS (EC2, VPC, IAM, CloudWatch) |
+| 🏗️ IaC | Terraform |
+| ☸️ Containers | Kubernetes, Docker |
+| 🔄 CI/CD | GitHub Actions, Jenkins |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🐧 Systems | Linux, Bash |
+| 🔧 Tools | Git, GitHub |
+
+---
+
+## 📁 Repository Focus
+
+Most repositories here demonstrate:
+- Terraform-based AWS infrastructure provisioning  
+- Kubernetes deployments and configurations  
+- CI/CD pipeline automation  
+- Monitoring and system observability  
+
+These projects are designed to reflect **production-style DevOps workflows**.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,23 +58,19 @@ Most of my repositories focus on **real-world DevOps projects**, including AWS i
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sayamuddinshams&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-
-
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayam-ud-din-0295b334b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/nx/find-work/best-matches" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="https://www.fiverr.com/users/sayamuddin19/seller_dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  <a href="https://www.upwork.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⭐ *“Teamwork, learning, and innovation — that’s how we grow, one commit at a time.”*
+⭐ *“Reliable infrastructure is built with automation, observability, and discipline.”*
