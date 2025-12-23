@@ -1,6 +1,6 @@
 <h2 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Terraform+%7C+Kubernetes+%7C+AWS" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=DevOps+%7C+Terraform+%7C+Kubernetes+%7C+AWS" 
   />
 </h2>
 
@@ -36,18 +36,6 @@ My work is centered around **real-world DevOps use cases** — not tutorials.
 | 📊 Monitoring | Prometheus, Grafana |
 | 🐧 Systems | Linux, Bash |
 | 🔧 Tools | Git, GitHub |
-
----
-
-## 📁 Repository Focus
-
-Most repositories here demonstrate:
-- Terraform-based AWS infrastructure provisioning  
-- Kubernetes deployments and configurations  
-- CI/CD pipeline automation  
-- Monitoring and system observability  
-
-These projects are designed to reflect **production-style DevOps workflows**.
 
 ---
 
