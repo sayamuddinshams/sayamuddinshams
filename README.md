@@ -10,7 +10,7 @@ I’m **Sayam Uddin**, a **DevOps Engineer** focused on designing, automating, a
 
 I specialize in **AWS, Kubernetes, Terraform, CI/CD automation, and monitoring/observability**, helping teams replace manual and fragile systems with **scalable, secure, and repeatable Infrastructure as Code (IaC)**.
 
-My work is centered around **real-world DevOps use cases** — not tutorials.
+My work is centered around **real-world DevOps use cases**.
 
 ---
 
