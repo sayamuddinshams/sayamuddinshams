@@ -51,7 +51,7 @@ My work is centered around **real-world DevOps use cases**.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sayam-ud-din-0295b334b" target="_blank">
+  <a href="linkedin.com/in/sayam-uddin-63a4223a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/" target="_blank">
